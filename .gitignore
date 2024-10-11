@@ -1,3 +1,8 @@
+result
+result-*
+.direnv/
+.pre-commit-config.yaml
+
 /e2e-dump
 /target
 /classes
